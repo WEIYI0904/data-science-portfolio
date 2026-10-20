@@ -18,7 +18,6 @@ I am a data science student passionate about data analysis, visualization, and e
 **Findings:** 
 My analysis revealed a clear positive correlation between education and salary. Individuals with a Bachelor's degree or higher show significantly higher median and upper bounds in annual salary. Interestingly, weekly working hours do not vary drastically across different education levels.
 
-*(这里插入你的第二张图表)*
 ![Salary vs Education](https://raw.githubusercontent.com/WEIYI0904/data-science-project/main/chart2_salary.png)
 
 *   **Current Status:** Completed
